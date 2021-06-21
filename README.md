@@ -1,9 +1,9 @@
 # CRUD-app-using-Flask
 simple crud app using Flask
 
-FlaskIntroduction
 
 This repo has been updated to work with Python v3.8 and up.
+
 How To Run
 
     Install virtualenv:
