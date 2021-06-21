@@ -1,4 +1,4 @@
-# CRUD-app-using-Flask
+# CRUD app using Flask
 
 Simple Task Master CRUD app using Flask
 
