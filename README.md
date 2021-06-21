@@ -1,5 +1,6 @@
 # CRUD-app-using-Flask
-simple crud app using Flask
+
+Simple Task Master CRUD app using Flask
 
 
 This repo has been updated to work with Python v3.8 and up.
